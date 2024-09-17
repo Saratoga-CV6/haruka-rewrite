@@ -7,7 +7,7 @@ bidict==0.22.0
 cffi==1.15.0
 chardet==4.0.0
 discord.py==2.1.0
-idna==3.3
+idna==3.4
 multidict==5.2.0
 Pillow==9.3.0
 pycparser==2.21
